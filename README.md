@@ -35,3 +35,6 @@ Here we are taking a referance string which include all alphabet(both capital an
 2. Sample as a multinomial distribution
 3. if the Next char is a EOS then stop and return the generated string
 4. Else goto the step one and repeat untill the distance is achieved
+
+
+## THANK YOU
